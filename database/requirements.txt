@@ -1,0 +1,7 @@
+matplotlib
+pandas
+requests
+bs4
+retrying
+lxml
+fake_useragent
